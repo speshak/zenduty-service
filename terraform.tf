@@ -9,7 +9,7 @@ terraform {
 
     zenduty = {
       source  = "Zenduty/zenduty"
-      version = "0.2.0"
+      version = "0.2.3"
     }
   }
 }
